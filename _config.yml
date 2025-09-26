@@ -16,7 +16,7 @@ timezone:
 
 title: colakit
 
-tagline: 折腾网络与系统的 SRE，分享所见所想。 # it will display as the subtitle
+tagline: Networks. Systems. Ideas.折腾网络与系统的 SRE，分享所见所想。 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
