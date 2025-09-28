@@ -1,7 +1,7 @@
 ---
 title: 2025-09-17-5大全球CDN巨头深度对比AWS,GCP,阿里云,Akamai,Cloudflare核心差异分析.md
 date: 2025-09-17 18:26:57 +/-TTTT
-categories: Tech,networking
+categories: Tech
 tags: performance edge-computing distributed-systems security
 ---
 <font style="color:rgb(27, 28, 29);">这是一个对 </font>**<font style="color:rgb(27, 28, 29);">AWS (CloudFront)</font>**<font style="color:rgb(27, 28, 29);">、</font>**<font style="color:rgb(27, 28, 29);">GCP (Cloud CDN)</font>**<font style="color:rgb(27, 28, 29);">、</font>**<font style="color:rgb(27, 28, 29);">阿里云 (CDN)</font>**<font style="color:rgb(27, 28, 29);">、</font>**<font style="color:rgb(27, 28, 29);">Akamai</font>**<font style="color:rgb(27, 28, 29);"> 和 </font>**<font style="color:rgb(27, 28, 29);">Cloudflare</font>**<font style="color:rgb(27, 28, 29);"> 全球网络和CDN服务的核心差异分析对比。</font>
