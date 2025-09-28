@@ -1,7 +1,8 @@
 ---
 title: 2025-09-27-NeoCloud不止是GPU云服务,更是企业AI算力困境的破局者
 date: 2025-09-27 17:25:31 +/-TTTT
-tags: notes     # TAG names should always be lowercase
+categories: Tech
+tags: notes
 ---
 <font style="color:rgb(0, 0, 0);">“NeoCloud” 指的是主要提供 GPU 即服务 (GPUaaS) 的云提供商。随着人工智能 (AI) 的兴起，一波专注于 GPUaaS 的新云提供商应运而生。虽然“NeoCloud”一词的确切来源及其最初的用法尚不清楚，但它已逐渐成为专门提供 GPUaaS 服务的云提供商的行业术语。</font>
 
