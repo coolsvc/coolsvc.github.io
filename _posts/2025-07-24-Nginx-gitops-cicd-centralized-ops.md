@@ -1,3 +1,9 @@
+---
+title: 2025-07-24-Nginx-gitops-cicd-centralized-ops.md
+date: 2025-07-24 19:44:17 +/-TTTT
+categories: dev,devops
+tags: dev devops
+---
 ### 一、方案目标
 
 通过 GitOps 和 CI/CD 模式，实现对多个 Nginx 节点的集中化配置、管理、部署与回滚，提升配置统一性、操作效率与服务可用性。
