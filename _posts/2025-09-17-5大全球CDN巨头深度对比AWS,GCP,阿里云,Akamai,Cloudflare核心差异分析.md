@@ -1,5 +1,5 @@
 ---
-title: 2025-09-17-5大全球CDN巨头深度对比AWS,GCP,阿里云,Akamai,Cloudflare核心差异分析.md
+title: 2025-09-17-5大全球CDN巨头深度对比AWS,GCP,阿里云,Akamai,Cloudflare核心差异分析
 date: 2025-09-17 18:26:57 +/-TTTT
 categories: Tech
 tags: performance edge-computing distributed-systems security
