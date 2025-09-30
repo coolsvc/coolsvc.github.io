@@ -1,5 +1,5 @@
 ---
-title: 2025-08-20-深度剖析Anycast,GA,动态CDN和专线,你的业务该选谁.md
+title: 2025-08-20-深度剖析Anycast,GA,动态CDN和专线,你的业务该选谁
 date: 2025-08-20 20:49:41 +/-TTTT
 categories: Tech,networking
 tags: performance edge-computing
