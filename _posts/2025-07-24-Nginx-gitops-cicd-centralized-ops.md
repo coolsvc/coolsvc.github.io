@@ -1,5 +1,5 @@
 ---
-title: 2025-07-24-Nginx-gitops-cicd-centralized-ops.md
+title: 2025-07-24-Nginx-gitops-cicd-centralized-ops
 date: 2025-07-24 19:44:17 +/-TTTT
 categories: dev,devops
 tags: dev devops
